@@ -48,7 +48,7 @@ The Broadband WG is expected to produce the following deliverables:
 
 The WG will prioritize the problem statement, requirements, and gap analysis before proceeding with protocol specifications and other technical solutions.
 
-### 4. Collaborations
+## 4. Collaborations
 
 ---
 
@@ -60,4 +60,4 @@ The Broadband WG will coordinate with relevant IETF working groups and other sta
 
 - Other relevant IETF WGs: Collaborate with relevant working groups in the Internet, Routing, and Transport areas as needed.
 
-The WG will also coordinate with external standards organizations, including the Broadband Forum (BBF),  align requirements and protocol status, and avoid overlap or conflicts of standardizations.
+The WG will also coordinate with external standards organizations, including the Broadband Forum (BBF), to align requirements and protocol status and avoid overlap or conflicts of standardizations.
