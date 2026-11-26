@@ -16,7 +16,7 @@ The BOF will also discuss the proposed scope and initial work items, the relatio
 
 - Responsible AD: Éric Vyncke / Jen Linkova
 
-- BOF proponents: Jinming LI, Xueyan Song
+- BOF proponents: Jinming LI, Xueyan Song, Christian Giese
 
 - BOF chairs: TBD
 
@@ -50,5 +50,3 @@ TBD
 - Draft charter: https://github.com/JMingLi1836/BroadbandBoF/blob/main/Charter.md
 
 - Relevant Internet-Drafts: TBD
-
-
