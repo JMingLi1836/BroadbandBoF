@@ -38,8 +38,6 @@ The Broadband WG is expected to produce the following deliverables:
 
 - **Problem Statement, Use Cases, Requirements, and Gap Analysis:** Document broadband networking use cases, operational requirements, and limitations of existing protocols and architectures. (Informational)
 
-- **Broadband Architecture and Framework:** Define a framework for broadband network evolution, including access, subscriber and service management, and differentiated service delivery. (optional, Informational)
-
 - **Protocol Specifications:** Develop one or more protocol specifications for broadband-specific extensions or new mechanisms based on the identified requirements. Protocol work will focus on areas that are not adequately addressed by existing IETF working groups. (Standards Track, as appropriate)
 
 - **Operational and Deployment Guidance:** Document deployment considerations, interoperability requirements, and operational recommendations for broadband networks. (Informational)
